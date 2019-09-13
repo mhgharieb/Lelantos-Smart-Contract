@@ -4,7 +4,7 @@ A Blockchain-based Anonymous Physical Delivery System
 ### Deployment Lelantos smart contract Using [Remix-Solidity IDE](https://remix.ethereum.org/#version=soljsonv0.4.11+commit.68ef5810.js&optimize=true)
 * Remix-Solidity IDE  is a browser-based Solidity compiler and IDE. It also creates private blockchian for testing purpose.
 * Upload Lelantos smart contract to Remix-Solidity IDE
-* From the right side of Remix-Solidity IDE, select "Contract". You will find textbox to enter _**max_hop_fee**_  ![](https://raw.githubusercontent.com/mhgharieb/test/master/images/deploy.png)
+* From the right side of Remix-Solidity IDE, select "Contract". You will find textbox to enter _**max_hop_fee**_  ![](https://raw.githubusercontent.com/mhgharieb/Lelantos-Smart-Contract/master/images/deploy.png)
 
      Assuming that _**max_hop_fee**_ is 1 ETH (= 1000000000000000000 Wei)
 
